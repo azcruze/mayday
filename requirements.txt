@@ -1,1 +1,8 @@
-
+langgraph
+langchain
+langchain-anthropic
+langsmith
+supabase
+python-dotenv
+pdfplumber
+python-docx
